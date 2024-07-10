@@ -1,0 +1,1 @@
+em screens ficarao todas as paginas , como por exemplo a pagina Home que tem uma pasta so para ela com o css e a estruturacao com o jsx 
